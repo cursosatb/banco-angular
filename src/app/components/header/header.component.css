@@ -20,7 +20,7 @@
 
 .main-nav {
   display: inline-block;
-  width: calc(100% - 68px);
+  width: calc(100% - 38px);
   text-align: right;
   vertical-align: middle;
 }
